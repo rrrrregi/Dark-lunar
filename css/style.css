@@ -1,0 +1,29 @@
+h1{
+   color: rgb(230, 207, 4); 
+}
+p{
+    color: rgb(253, 174, 4);
+    font-weight: bold;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(243, 89, 0);
+}
+table{
+    color: blue;
+}
+
+body {
+    background-color: aqua;
+    background-image: url(../gmbr/wal.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: chartreuse;
+    font-size: 50px;
+    font-style: italic;
+}
